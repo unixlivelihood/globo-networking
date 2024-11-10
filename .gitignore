@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+.gitignore
+.terraform.lock.hcl
